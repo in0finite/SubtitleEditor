@@ -1,0 +1,12 @@
+
+- play subtitles
+- go to timestamp
+- put try-catch in every slot function
+- show multiple lines in table
+- show stats file size bug
+
+- for MicroDVD: {Y:i}
+
+- process subtitles - stretch
+- program crashes when checking validity and timestamp is invalid
+
